@@ -19,8 +19,8 @@ Within this project we go over some different model architectures to enable us t
 
 ### Data
 The data that was provided was in the form of the 
-- *date* :  in the format *YYYY-MM-DD HH:mm:ss
-- *state* : energy consumption a float in *KWh
+- *date* :  in the format *YYYY-MM-DD HH:mm:ss*
+- *state* : energy consumption a float in *KWh*
 - *metadata_id*:  a key used to relate this table to other data on Home Assistant
 - *sum*: an accumulative value of consumption 
 
